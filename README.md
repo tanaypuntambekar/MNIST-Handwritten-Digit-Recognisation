@@ -7,4 +7,4 @@ The MNIST database is a dataset of handwritten digits. It has 60,000 training sa
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://editor.analyticsvidhya.com/uploads/80438MnistExamples.png)
 
-Using Tensorflow and Keras, built a Neural Network to preict the image with an accuracy of 97% 
+Using Tensorflow and Keras, built a Neural Network to predict the image with an accuracy of 97% 
